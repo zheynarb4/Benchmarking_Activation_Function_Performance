@@ -1,2 +1,7 @@
 .vscode
 .env
+kaggle.json
+__pycache__/
+data/*
+metrics/*
+model/*
